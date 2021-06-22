@@ -34,3 +34,5 @@ export async function getServerSideProps(context) {
     },
   };
 }
+
+// genre pages works as well
